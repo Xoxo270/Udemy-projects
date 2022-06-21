@@ -6,8 +6,8 @@ from Jonas Schmedtmann
 
 # Projects list
 - [x] PROJECT #1: Guess My Number!
-- [x] PROJECT #2: Modal Window.
-- [x] PROJECT #3: Pig Game.
-- [x] PROJECT #4: "Bankist" App.
-- [x] PROJECT #5: "Bankist" Website.
-- [x] PROJECT #6: "Mapty" Website, Geolocation API.
+- [ ] PROJECT #2: Modal Window.
+- [ ] PROJECT #3: Pig Game.
+- [ ] PROJECT #4: "Bankist" App.
+- [ ] PROJECT #5: "Bankist" Website.
+- [ ] PROJECT #6: "Mapty" Website, Geolocation API.
