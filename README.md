@@ -8,7 +8,7 @@ from Jonas Schmedtmann
 
 # Projects list
 - [x] PROJECT #1: Guess My Number!
-- [ ] PROJECT #2: Modal Window.
+- [x] PROJECT #2: Modal Window.
 - [ ] PROJECT #3: Pig Game.
 - [ ] PROJECT #4: "Bankist" App.
 - [ ] PROJECT #5: "Bankist" Website.
